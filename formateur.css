@@ -1,0 +1,14 @@
+h1{
+    color: #CE0033;
+}
+section{
+    background-color: white;
+
+}
+.Samba{
+    border-radius: 30px;
+    box-shadow: none;
+    width: min-content;
+    height: min-content;
+}
+div{ display: inline-block;}
