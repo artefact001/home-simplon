@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Manrope:wght@200&family=Montserrat:wght@300&display=swap');
+
+/*stockage des couleurs depuis figma*/
+
+:root {
+    --title-color: #CE0033;
+    --background-firstsection: #FAFAFA;
+    --white: #FFFFFF;
+    --Black: #000000;
+    /* text configuration */
+    --nav-font: 'inter';
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.new{
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 300px;
+    align-items: center;
+    background: #fff4f4;
+}
+#dame{
+    border-radius: 30px;
+    width: 30%;
+    height: 390px;
+}
+.txtres{
+    padding-left: 50px;
+    width: 390px;
+    text-align: start;
+    line-height: 2.1;
+}
+.txtres h1{
+    color: red;
+}
