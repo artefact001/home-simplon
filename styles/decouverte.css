@@ -3,12 +3,43 @@
     margin-left: 50px;
     margin-right: 50px;
 }
+.card #deco{
+    color: #ffff;
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 3%;
+    padding-bottom: 1%;
+    border-radius: 0 0 60% 60%;
+    margin-left: 15%;
+    margin-top: -20px;
+    position:absolute;
+    background: #ce0033;
+
+}
+.cardi{
+    display: flex;
+    
+}
+.imgactu img{
+    width: 250px;
+    border-radius: 10px;
+}
+#im24{
+    width: 250px;
+    height: 150px;
+}
+.textcard{
+    width: 250px;
+}
 .evens{
     margin-left: 50px;
     color: #CE0033;
 }
 .carte{
     display: flex;
+    padding: 20px;
 }
 .carte1{
    margin-right: 50px;
